@@ -1,0 +1,15 @@
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar_3\Test20\bin\Debug\net6.0\Test20.exe
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar_3\Test20\bin\Debug\net6.0\Test20.deps.json
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar_3\Test20\bin\Debug\net6.0\Test20.runtimeconfig.json
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar_3\Test20\bin\Debug\net6.0\Test20.dll
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar_3\Test20\bin\Debug\net6.0\Test20.pdb
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar_3\Test20\obj\Debug\net6.0\Test20.csproj.AssemblyReference.cache
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar_3\Test20\obj\Debug\net6.0\Test20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar_3\Test20\obj\Debug\net6.0\Test20.AssemblyInfoInputs.cache
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar_3\Test20\obj\Debug\net6.0\Test20.AssemblyInfo.cs
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar_3\Test20\obj\Debug\net6.0\Test20.csproj.CoreCompileInputs.cache
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar_3\Test20\obj\Debug\net6.0\Test20.dll
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar_3\Test20\obj\Debug\net6.0\refint\Test20.dll
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar_3\Test20\obj\Debug\net6.0\Test20.pdb
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar_3\Test20\obj\Debug\net6.0\Test20.genruntimeconfig.cache
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar_3\Test20\obj\Debug\net6.0\ref\Test20.dll
